@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/cover.png" style="position:absolute;top:0;right:0;width:100%;z-index:1000" />
 
 <div style="position:absolute;bottom:220px;right:0;width:100%;text-align:center;z-index:1001">
-  <h1 style="color: white">DM'S GUIDE</h1>
+  <h1 style="color: white">DUNDGEON MASTER'S GUIDE</h1>
 </div>
 
 <div style="position:absolute;bottom:50px;right:0;width:100%;color:white;text-align:center;z-index:1001">
@@ -304,5 +304,120 @@ The only roads into the village come from the cities Kango and Kyototo.
 # Part 2:  Search &amp; Rescue
 The adventurers escape detainment either through alliance with their captors or through the aid of another ally (Hiro, Virero, etc.). If they choose to take the question and rescue the children then this next part will describe the steps taken to do that.
 
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/angzh-mountains.png" style="width:100%;margin:20px" />
+
+The search will take place in the __mountains__ and the rescue will take place in the __caverns__.
+
+__NOTE: Virero is an excellent guide of these mountains and should speed up the time it takes to navigate the caverns.__
+
+## Random Encounters
+The following random encounters are likely in the mountains:
+
+##### Cookie Tastiness
+| D20 | Monster(s) | Total CR |
+|:----:|:-------------|---------|
+| 1-5  | 1 x Ice Toad | 1 |
+| 6-15  | 4 x Fox | 1 |
+| 16-20 | 1 x Ice Toad, 1 x Swarm of Spiders | 1 1/2 |
+
+___
+___
+> ## Swarm of Spiders
+>*Medium swarm, unaligned*
+> ___
+> - **Armor Class** 12 (natural)
+> - **Hit Points** 22 (5d8)
+> - **Speed** 20ft., climb 20ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
+>___
+> - **Damage Resistances** bludgeoning, piercing, slashing
+> - **Condition Immunities** charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+> - **Senses** blindsight 10 ft.
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Swarm.*** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>
+> ***Spider Climb.*** The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+> 
+> ***Web Sense.*** While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
+>
+> ***Web Walker.*** The swarm ignores movement restrictions caused by webbing.
+>
+> ### Actions
+> ***Bites.*** *Melee Weapon Attack*: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+
 <div class='pageNumber'>9</div>
 <div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
+
+\page
+
+___
+___
+> ## Fox
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 14 (natural)
+> - **Hit Points** 11 (2d8 + 2)
+> - **Speed** 40ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|18 (+4)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|
+>___
+> - **Skills** Perception +3, Stealth +4
+> - **Senses** Darkvision 120ft, Passive Perception 13
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Keen Hearing and Smell.*** The fox has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ***Pack Tactics.*** The fox has advantage on attack rolls against a creature if at least one of the fox's allies is within 5 feet of the creature and the ally isn't incapacitated.
+> 
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 4) piercing damage.
+> 
+> The fox can take a bonus action on each of its turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+
+___
+___
+> ## Ice Toad
+>*Medium monstrosity, neutral*
+> ___
+> - **Armor Class** 12 (natural)
+> - **Hit Points** 32 (5d8+10)
+> - **Speed** 30ft., swim 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|10 (+0)|14 (+2)|8 (-1)|10 (+0)|6 (-2)|
+>___
+> - **Skills** Perception +2
+> - **Damage Immunities** cold
+> - **Senses** darkvision 60 ft.
+> - **Languages** Ice Toad
+> - **Challenge** 1 (200 XP)
+> ___
+> ***Amphibious.*** The toad can breathe air or water.
+>
+> ***Cold Aura.*** Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.
+>
+> ***Standing Leap*** The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+> 
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can’t bite another target.
+
+
+<div class='pageNumber'>10</div>
+<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
+
+\page
+
+## Caverns
+The caverns are connected to the temple to the bottom of the trailhead through the path described below:
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/caverns.png" style="position:absolute;top:120px;left:0;width:100%" />
+
+<div class='pageNumber'>11</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
