@@ -98,12 +98,16 @@ The only roads into the village come from the cities Kango and Kyototo.
 
 ## Fujiya Lodge
 
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
+
 <div class='pageNumber'>4</div>
 <div class='footnote'>PLAYER'S GUIDE | MAPS</div>
 
 \page
 
 ## Village Centre
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map.png" style="position:absolute;top:90px;left:0;width:100%" />
 
 <div class='pageNumber'>5</div>
 <div class='footnote'>PLAYER'S GUIDE | MAPS</div>
