@@ -173,8 +173,28 @@ Success required by at least two players, the adventurers are now allied with th
 <ul>
 </div>
 
+### Alternate
+It's possible for the adventurers to leave the tavern before getting arrested. In this scenario the villagers will be making their way to the temple for shelter. By leaving shelter the adventurers are at risk for getting damage from the ash in the air (especially not being dragonborn).
+
+<div class='descriptive'>
+##### Constitution DC 15:
+
+If the adventurer has not covered their mouth with any damp cloth then they are succeptible to lung damage.
+
+<ul>
+  <li style="color:#007E7E;font-weight:bold">SUCCESS - no effect</li>
+  <li style="color:#7E0000;font-weight:bold">FAIL - roll 1D4 for damage</li>
+<ul>
+</div>
+
+As the adventurers make their way through the crowd to the temple they will be spotted by the guards unless they are in stealth.
+
+If they remain undetected there is an opportunity to befriend __Hiro__.
+
 ```
 ```
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/scales-of-ha.png" style="margin:20px" />
 
 __The Scales of Ha__, or _Ha no Uroko (葉の鱗) in Nirimsese Draconic_, are a religious order and de facto police force for the Village of Fuling. Founded in 2985 N¥ by Hakik. They are relatively inexperienced as they are a new order and have had little to no challenges to season them.
 
