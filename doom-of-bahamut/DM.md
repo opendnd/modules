@@ -144,15 +144,6 @@ Below are a few of the NPCs in the tavern:
 
 \page
 
-## Fujiya Lodge
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
-
-<div class='pageNumber'>3</div>
-<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
-
-\page
-
 ## Detainment
 The players may take their time to question the NPC’s about what is happening. After about 15-30 minutes of game time:
 
@@ -205,5 +196,113 @@ __Taryash__ is a medium-sized dragonman with green scales and ruby eyes. Often d
 The adventurers are being arrested, and will be interrogated by the Scales of Ha. They must account for their events over the past day. The interrogation takes place in the Palace of the Head Dragon (or alternatively can take place in the temple).
 
 
+<div class='pageNumber'>3</div>
+<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
+
+\page
+
+## The Palace of the Head Dragon
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/palace-of-head-dragon.png" style="width:100%;margin:20px" />
+
+The adventurers may be taken to the palace for interrogation.
+
+> ### Narration:
+>
+> The Palace of the Head Dragon is a large wooden palace with statues blocking the entrance to the staircase.
+
+Hakik informs the players that he was notified by the temple priests that after the eruption they discovered the sacred tablet was stolen.
+
+Hakik is against foreigners coming into the village and is immediately suspicious that the adventurers have a direct involvement in the theft.
+
+Each player will each be interrogated one at a time. While one player is in the interrogation room, the others are free to discuss amongst themselves. While they are waiting to be interrogated, they may encounter the priest named __Hiro__.
+
+Hiro is described as an average looking dragonborn of average height and average weight. His green scales and yellow eyes are extremely typical of those born on Mi’s Island. In fact, Hiro is about as average as average comes for a dragonborn on Nirimsea.
+
+Good roleplaying will be critical for the players to be able to explain their whereabouts over the past day. More specifically provide a convincing explanation for why they are in the village. At the end of each interrogation have the player do a Charisma/Persuasion DC 15 with advantage if the role playing was convincing, with disadavantage if not convincing.
+
+After some time, while Hakik is just finishing the interrogations, his son __Fuling__ comes running into the room.
+
+> Fuling screams, “FATHER! They’ve taken my children!!!”
+
+If the majority of the players successfully passed the interrogation then the players are without any suspicion. Otherwise Hakik is suspicious of them.
+
+<div class='descriptive'>
+##### Charisma/Persuasion DC 15:
+
+<ul>
+  <li style="color:#007E7E;font-weight:bold">SUCCESS - no accusations come from Hakik, however he is wary of having visitors when there are such major crimes happening. The players are asked to stay as guests in the palace (but are really prisoners). When the players tire of being under house arrest, they are allowed to leave to the village centre only if accompanied by the Scales of Ha.</li>
+  <li style="color:#7E0000;font-weight:bold">FAIL -  the accusations begin to flood from Hakik as he is further enraged. Hiro suggests that the adventurers could not have been culpable of this, as they were sitting with him while waiting to be interrogated. Hakik, unconvinced of their innocence demands they prove their loyalty by joining the Scales of Ha in their search for the children.</li>
+</ul>
+</div>
+
+Take a look at the maps to find an arrangement that makes sense to your unique situation with the adventurers.
+
+
 <div class='pageNumber'>4</div>
 <div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
+
+\page
+
+## Village of Fuling
+
+<div style="position:absolute;top:90px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Fujiya Lodge</strong> is a popular lodging establishment. The ornate wooden lodge is located a few minutes walk from the village centre and overlooks some of the village’s most beautiful scenery.
+</div>
+
+<div style="position:absolute;top:260px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Temple of Bahamut</strong> sits at the highest point in the village. It’s simple appearance includes many meditation rooms. A platinum capsule is positoined towards the center of the temple.
+</div>
+
+<div style="position:absolute;top:430px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Village Centre</strong> contains many artisan shops and the Head Dragon palace. There is an intricate wooden bridge that overlooks the enormous waterfall – Fuling Falls.
+</div>
+
+<div style="position:absolute;top:585px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Mayahi no Onsen &amp; Mangri no Onsen</strong> are rival hot springs popular for relaxation and healing. The springs include a lodge for food and rest.
+</div>
+
+<div style="position:absolute;top:724px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Angzh Mountains</strong> Trailhead and lodge are available by boat from the Village Centre. The trailhead goes deep into the mountains and many visitors come to Fuling just for the easier route into the mountain range.
+
+The only roads into the village come from the cities Kango and Kyototo.
+</div>
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-map.png" style="position:absolute;top:90px;right:70px;width:65%;" />
+
+<div class='pageNumber'>5</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Fujiya Lodge
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>6</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Village Centre (North)
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-top.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>7</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Village Centre (Palace)
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-bottom.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>8</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+# Part 2:  Search &amp; Rescue
+The adventurers escape detainment either through alliance with their captors or through the aid of another ally (Hiro, Virero, etc.). If they choose to take the question and rescue the children then this next part will describe the steps taken to do that.
+
+<div class='pageNumber'>9</div>
+<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
