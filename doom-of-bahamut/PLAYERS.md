@@ -1,3 +1,17 @@
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/cover.png" style="position:absolute;top:0;right:0;width:100%;z-index:1000" />
+
+<div style="position:absolute;bottom:220px;right:0;width:100%;text-align:center;z-index:1001">
+  <h1 style="color: white">PLAYER’S HANDOUT</h1>
+</div>
+
+<div style="position:absolute;bottom:50px;right:0;width:100%;color:white;text-align:center;z-index:1001">
+  <p>Official OpenDnD Micro-campaign Module</p>
+  <p>All material is licensed under MIT to be free and open.</p>
+  <p>version 2.0</p>
+</div>
+
+\page
+
 # The Doom of Bahamut - Player's Guide
 This micro-campaign takes place in the small __Village of Fuling__. A sleepy peaceful village located high in the __Angzh mountains__ surrounded with some of nature's most incredible beauty. The village is located on the tiny island-kingdom of __Nirimsea__. The island is populated almost entirely of the Nirimsese __Dragonborn__. The Nirimsese culture places a high importance on honor, hard work – particularly in the pursuit of a craft – and politeness.
 
