@@ -267,7 +267,7 @@ Parchments:
 - "I promise to standup to the fish merchant always overcharging me and ask for 5 copper instead of giving into 6 copper!"
 - "I will avenge my mother's killers!"
 
-<div class='pageNumber'>3</div>
+<div class='pageNumber'>4</div>
 <div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
 
 
@@ -325,7 +325,7 @@ The players are either taken to the dungeon or to their rooms in the palace.
 ### Option 1: Dungeon
 Virero will contact the players in prison to let them know he recognizes the gold on the dirt of the footprints. It could only come from the Angzh mountains and specifically a cavern with gold in it. He can help them break out of prison through the waterway and take them on a boat to the Angzh mountains trailhead.
 
-<div class='pageNumber'>3</div>
+<div class='pageNumber'>5</div>
 <div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
 
 
@@ -347,76 +347,8 @@ However the party is able to make it down to the river, they will eventually fin
 You can use __Virero__ as a guide to navigate along the path and eventually lead into the caverns of the mountains. Alternatively there is an entrance into the caverns from the __Temple of Bahamut__ that can be led by __Hiro__. This entrance will be more tricky to get into as if the adventurers are in the palace they will have a long way to go undetected in the open to get to the temple. 
 
 
-<div class='pageNumber'>4</div>
-<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
-
-\page
-
-## Village of Fuling
-
-<div style="position:absolute;top:90px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
-  <strong>Fujiya Lodge</strong> is a popular lodging establishment. The ornate wooden lodge is located a few minutes walk from the village centre and overlooks some of the village’s most beautiful scenery.
-</div>
-
-<div style="position:absolute;top:260px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
-  <strong>Temple of Bahamut</strong> sits at the highest point in the village. It’s simple appearance includes many meditation rooms. A platinum capsule is positoined towards the center of the temple.
-</div>
-
-<div style="position:absolute;top:430px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
-  <strong>Village Centre</strong> contains many artisan shops and the Head Dragon palace. There is an intricate wooden bridge that overlooks the enormous waterfall – Fuling Falls.
-</div>
-
-<div style="position:absolute;top:585px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
-  <strong>Mayahi no Onsen &amp; Mangri no Onsen</strong> are rival hot springs popular for relaxation and healing. The springs include a lodge for food and rest.
-</div>
-
-<div style="position:absolute;top:724px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
-  <strong>Angzh Mountains</strong> Trailhead and lodge are available by boat from the Village Centre. The trailhead goes deep into the mountains and many visitors come to Fuling just for the easier route into the mountain range.
-
-The only roads into the village come from the cities Kango and Kyototo.
-</div>
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-map.png" style="position:absolute;top:90px;right:70px;width:65%;" />
-
-<div class='pageNumber'>5</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
-
-\page
-
-## Fujiya Lodge
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
-
 <div class='pageNumber'>6</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
-
-\page
-
-## Village Centre (North)
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-top.png" style="position:absolute;top:90px;left:0;width:100%" />
-
-<div class='pageNumber'>7</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
-
-\page
-
-## Village Centre (Palace)
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-bottom.png" style="position:absolute;top:90px;left:0;width:100%" />
-
-<div class='pageNumber'>8</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
-
-\page
-
-## Kingdom of Nirimsea
-_Rotate map 90 degrees._
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/nirimsea-map.png" style="position:absolute;top:290px;left:-40px;width:900px;-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);" />
-
-<div class='pageNumber'>9</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
+<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
 
 \page
 
@@ -477,8 +409,8 @@ ___
 > ***Scratch.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2)
 
 
-<div class='pageNumber'>10</div>
-<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
+<div class='pageNumber'>7</div>
+<div class='footnote'>DM'S GUIDE | Part 2:  Search &amp; Rescue</div>
 
 \page
 
@@ -566,7 +498,7 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can’t bite another target.
 
 
-<div class='pageNumber'>11</div>
+<div class='pageNumber'>8</div>
 <div class='footnote'>DM'S GUIDE | Part 2:  Search &amp; Rescue</div>
 
 \page
@@ -584,10 +516,14 @@ Once inside the red-shaded corridor the adventurers will work their way down to 
 
 There is not much time to find all 3 children tied up and rescue them before the ceremony begins. It will be extremely difficult to defeat all 3 of the villains during the ceremony so it is important if the adventurers are to be successful that they find the children quickly.
 
-The adventurers should attempt to outwit the dragonborn villains or use stealth to rescue the children before entering combat. Should combat happen, here is more information on the villains:
+The adventurers should attempt to outwit the dragonborn villains or use stealth to rescue the children before entering combat. Should combat happen see the stats on the right.
 
-```
-```
+## Ritual
+The ritual involving the children will take place on the 3rd day after the initial volcanic eruption. In which the night sky will illuminate the stars with a constellation of Tiamat's dragon breath. The villains will take this as a sign to begin the ritual.
+
+They will start by taking the children and putting them on 3 different platforms lying down. There each of the 3 dragonborn will chant from the ancient texts of Tiamat. They will use their ancient daggers to stab the children in the heart and have their blood pool into a chalice. This chalice will then be combined to pour into the lava pools deep within the cavern. 
+
+Even if the adventurers fail to save all of the children they can still prevent the __Doom of Bahamut__ by keeping the villains from completing the ritual. Should the players fail then the __true__ volcanic eruption will commence in an hour from completion of the ritual. At which point they should seek immediate shelter. Anyone that remains outside will succumb to ash and fire.
 
 ------------
 > ### Yukisu
@@ -596,6 +532,7 @@ The adventurers should attempt to outwit the dragonborn villains or use stealth 
 > HP: 12 | AC: 16
 > 
 > - Ancient Sword *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d6 + 2)
+> - Ancient Dagger *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 4 (1d6)
 >____
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -609,6 +546,7 @@ The adventurers should attempt to outwit the dragonborn villains or use stealth 
 > HP: 11 | AC: 17
 > 
 > - Ancient Bow *Ranged Weapon Attack:* +5 to hit, range 30ft. (60ft.), one target. *Hit* 5 (1d6 + 2)
+> - Ancient Dagger *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 4 (1d6)
 >____
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -626,7 +564,7 @@ The adventurers should attempt to outwit the dragonborn villains or use stealth 
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|10 (+0)|13 (+1)|12 (+1)|9 (-1)|
 
-<div class='pageNumber'>11</div>
+<div class='pageNumber'>9</div>
 <div class='footnote'>DM'S GUIDE | Part 3:  The Race for Time</div>
 
 \page
@@ -645,18 +583,8 @@ The adventurers should attempt to outwit the dragonborn villains or use stealth 
 > ### Kamizu
 > How do you do? My name is Kamizu and I'm 6 years old. I'm the daughter of Fuling no Hakik. A talent of mine is that I'm a natural at making people laugh.
 
-<div class='pageNumber'>11</div>
+<div class='pageNumber'>10</div>
 <div class='footnote'>DM'S GUIDE | Part 3:  The Race for Time</div>
-
-\page
-
-## Caverns
-The caverns are connected to the temple to the bottom of the trailhead through the path described below:
-
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/caverns.png" style="position:absolute;top:120px;left:0;width:100%" />
-
-<div class='pageNumber'>12</div>
-<div class='footnote'>DM'S GUIDE | MAPS</div>
 
 \page
 
@@ -706,7 +634,7 @@ The caverns are connected to the temple to the bottom of the trailhead through t
 > 
 > Insight: Lawful Evil, desperately seeks freedom, has a mean stare, loyal and true to her word, seeks to fight for the common folk, submissive to those powerful to her that share her goals, smart, patient
 
-<div class='pageNumber'>12</div>
+<div class='pageNumber'>11</div>
 <div class='footnote'>DM'S GUIDE | NPCs</div>
 
 \page
@@ -754,3 +682,81 @@ The caverns are connected to the temple to the bottom of the trailhead through t
 
 <div class='pageNumber'>12</div>
 <div class='footnote'>DM'S GUIDE | NPCs</div>
+
+\page
+
+## Village of Fuling
+
+<div style="position:absolute;top:90px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Fujiya Lodge</strong> is a popular lodging establishment. The ornate wooden lodge is located a few minutes walk from the village centre and overlooks some of the village’s most beautiful scenery.
+</div>
+
+<div style="position:absolute;top:260px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Temple of Bahamut</strong> sits at the highest point in the village. It’s simple appearance includes many meditation rooms. A platinum capsule is positoined towards the center of the temple.
+</div>
+
+<div style="position:absolute;top:430px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Village Centre</strong> contains many artisan shops and the Head Dragon palace. There is an intricate wooden bridge that overlooks the enormous waterfall – Fuling Falls.
+</div>
+
+<div style="position:absolute;top:585px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Mayahi no Onsen &amp; Mangri no Onsen</strong> are rival hot springs popular for relaxation and healing. The springs include a lodge for food and rest.
+</div>
+
+<div style="position:absolute;top:724px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Angzh Mountains</strong> Trailhead and lodge are available by boat from the Village Centre. The trailhead goes deep into the mountains and many visitors come to Fuling just for the easier route into the mountain range.
+
+The only roads into the village come from the cities Kango and Kyototo.
+</div>
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-map.png" style="position:absolute;top:90px;right:70px;width:65%;" />
+
+<div class='pageNumber'>13</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Fujiya Lodge
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>14</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Village Centre (North)
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-top.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>15</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Village Centre (Palace)
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-bottom.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>16</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Kingdom of Nirimsea
+_Rotate map 90 degrees._
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/nirimsea-map.png" style="position:absolute;top:290px;left:-40px;width:900px;-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);" />
+
+<div class='pageNumber'>17</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+## Caverns
+The caverns are connected to the temple to the bottom of the trailhead through the path described below:
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/caverns.png" style="position:absolute;top:120px;left:0;width:100%" />
+
+<div class='pageNumber'>18</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
