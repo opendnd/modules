@@ -12,7 +12,7 @@
 
 \page
 
-# The Doom of Bahamut - Player's Guide
+# The Doom of Bahamut - Player's Handout
 This micro-campaign takes place in the small __Village of Fuling__. A sleepy peaceful village located high in the __Angzh mountains__ surrounded with some of nature's most incredible beauty. The village is located on the tiny island-kingdom of __Nirimsea__. The island is populated almost entirely of the Nirimsese __Dragonborn__. The Nirimsese culture places a high importance on honor, hard work – particularly in the pursuit of a craft – and politeness.
 
 The village is also home to the __Temple of Bahamut__ (_Ryū no Ji_). A serene temple that focuses on meditation and relaxation. Every year thousands of visitors from across the world come to visit the temple. Many contribute a tiny parchment to the platinum capsule at the center of the wooden shrine. Written on these parchments are solemn oaths sworn to __Bahamut__ (_Ryū_) swearing to commit an act of justice in his honor. Upon completion of the deed the worshiper is hopeful to gain favor with the dragon-god.
@@ -54,14 +54,89 @@ Before you begin, please think about the following questions:
 </div>
 
 <div class='pageNumber'>1</div>
-<div class='footnote'>PLAYER'S GUIDE | INTRODUCTION</div>
+<div class='footnote'>PLAYER'S HANDOUT | INTRODUCTION</div>
 
 \page
 
 ## Playable Characters
 
+Please select one from the following characters for this micro-campaign, or create your own. You will find more detailed character sheets in the module folder.
+
+__NOTE: Dragonborn characters are NOT allowed for this micro-campaign.__
+
+------------------
+> ### Arodyf
+> _Male Human Monk | Chaotic Good_
+> 
+> - Age: 32
+> - Background: Professor
+> - Personality:  I’m convinced that people are always trying to steal my secrets.. I am horribly, horribly awkward in social situations.
+> - Ideals:  Power. Knowledge is the path to power and domination.
+> - Bonds:  I work to preserve a library, university, scriptorium, or monastery.
+> - Flaws:  I speak without really thinking through my words, invariably insulting others.
+
+------------------
+> ### ???
+> _???_
+> 
+> - Age: 
+> - Background:
+> - Personality:
+> - Ideals:
+> - Bonds:
+> - Flaws:
+
+------------------
+> ### ???
+> _???_
+> 
+> - Age: 
+> - Background:
+> - Personality:
+> - Ideals:
+> - Bonds:
+> - Flaws:
+
+
+```
+```
+
+------------------
+> ### Lamruil
+> _Female High Elf Fighter | Neutral Good_
+>
+> - Age: 131
+> - Background: Folk Hero
+> - Defining Event: I trained the peasantry to use farm implements as weapons against a tyrant’s soldiers.
+> - Personality Trait:  I misuse long words in an attempt to sound smarter.. I get bored easily. When am I going to get on with my destiny?
+> - Ideal:  Freedom. Tyrants must not be allowed to oppress the people.
+> - Bond:  My tools are symbols of my past life, and I carry them so that I will never forget my roots.
+> - Flaw:  I’m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
+
+------------------
+> ### Bor
+> _Male Human Rogue | True Neutral_
+>
+> - Age: 21
+> - Background: Blackmailer
+> - Personality Trait:  I always have a plan for what to do when things go wrong.. The best way to get me to do something is to tell me I can’t do it.
+> - Ideal:  Redemption. There’s a spark of good in everyone.
+> - Bond:  I’m guilty of a terrible crime. I hope I can redeem myself for it.
+> - Flaw:  When faced with a choice between money and my friends, I usually choose the money.
+
+------------------
+> ### ???
+> _???_
+> 
+> - Age: 
+> - Background:
+> - Personality:
+> - Ideals:
+> - Bonds:
+> - Flaws:
+
 <div class='pageNumber'>2</div>
-<div class='footnote'>PLAYER'S GUIDE | CHARACTERS</div>
+<div class='footnote'>PLAYER'S HANDOUT | CHARACTERS</div>
 
 \page
 
@@ -92,7 +167,7 @@ The only roads into the village come from the cities Kango and Kyototo.
 <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-map.png" style="position:absolute;top:90px;right:70px;width:65%;" />
 
 <div class='pageNumber'>3</div>
-<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+<div class='footnote'>PLAYER'S HANDOUT | MAPS</div>
 
 \page
 
@@ -101,16 +176,25 @@ The only roads into the village come from the cities Kango and Kyototo.
 <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/lodge.png" style="position:absolute;top:90px;left:0;width:100%" />
 
 <div class='pageNumber'>4</div>
-<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+<div class='footnote'>PLAYER'S HANDOUT | MAPS</div>
 
 \page
 
-## Village Centre
+## Village Centre (North)
 
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map.png" style="position:absolute;top:90px;left:0;width:100%" />
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-top.png" style="position:absolute;top:90px;left:0;width:100%" />
 
 <div class='pageNumber'>5</div>
-<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+<div class='footnote'>PLAYER'S HANDOUT | MAPS</div>
+
+\page
+
+## Village Centre (Palace)
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-centre-map-bottom.png" style="position:absolute;top:90px;left:0;width:100%" />
+
+<div class='pageNumber'>6</div>
+<div class='footnote'>PLAYER'S HANDOUT | MAPS</div>
 
 \page
 
@@ -130,5 +214,5 @@ For additional information on this micro-campaign and others please visit the fo
 > 
 > Specifically look for the articles on Bahamut and Tiamat. This resource is useful in learning more backround about the gods in Ao but any information on the Ao World Compendium overrides the information found here.
 
-<div class='pageNumber'>6</div>
-<div class='footnote'>PLAYER'S GUIDE | RESOURCES</div>
+<div class='pageNumber'>7</div>
+<div class='footnote'>PLAYER'S HANDOUT | RESOURCES</div>
