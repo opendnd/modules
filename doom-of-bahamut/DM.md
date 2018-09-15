@@ -584,8 +584,52 @@ Once inside the red-shaded corridor the adventurers will work their way down to 
 
 There is not much time to find all 3 children tied up and rescue them before the ceremony begins. It will be extremely difficult to defeat all 3 of the villains during the ceremony so it is important if the adventurers are to be successful that they find the children quickly.
 
+The adventurers should attempt to outwit the dragonborn villains or use stealth to rescue the children before entering combat. Should combat happen, here is more information on the villains:
+
 ```
 ```
+
+------------
+> ### Yukisu
+> Dragonborn Fighter, female
+>
+> HP: 12 | AC: 16
+> 
+> - Ancient Sword *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d6 + 2)
+>____
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|13 (+1)|14 (+2)|5 (+2)|8 (-1)|11 (+0)|
+
+
+------------
+> ### Runhika
+> Dragonborn Rogue, female
+>
+> HP: 11 | AC: 17
+> 
+> - Ancient Bow *Ranged Weapon Attack:* +5 to hit, range 30ft. (60ft.), one target. *Hit* 5 (1d6 + 2)
+>____
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|15 (+2)|
+
+------------
+> ### Misaru
+> Dragonborn Fighter, female
+>
+> HP: 10 | AC: 17
+> - Ancient Sword *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit* 5 (1d6 + 2)
+> - Ancient Dagger *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit* 4 (1d6)
+>____
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|15 (+2)|10 (+0)|13 (+1)|12 (+1)|9 (-1)|
+
+<div class='pageNumber'>11</div>
+<div class='footnote'>DM'S GUIDE | Part 3:  The Race for Time</div>
+
+\page
 
 ## The Children of Fuling no Hakik
 
@@ -599,7 +643,7 @@ There is not much time to find all 3 children tied up and rescue them before the
 
 ----------
 > ### Kamizu
-> How do you do? My name is Kamizu and I'm 6 years old. I'm the daughter of Fuling no Hakik. 
+> How do you do? My name is Kamizu and I'm 6 years old. I'm the daughter of Fuling no Hakik. A talent of mine is that I'm a natural at making people laugh.
 
 <div class='pageNumber'>11</div>
 <div class='footnote'>DM'S GUIDE | Part 3:  The Race for Time</div>
