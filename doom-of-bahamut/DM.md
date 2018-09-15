@@ -201,14 +201,31 @@ The adventurers are being arrested, and will be interrogated by the Scales of Ha
 
 \page
 
-## The Palace of the Head Dragon
-<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/palace-of-head-dragon.png" style="width:100%;margin:20px" />
+## Interrogation
+The adventurers are detained by the __Scales of Ha__. There is a crisis going on as the Angzh mountains have just erupted hot ash and embers that shot across the sky. The mountains are to the east of the Village of Fuling. The farmers and poorest villagers have gathered outside the shut doors of the __Temple of Bahamut__. They fear their homes being destroyed and having no where to go.
 
-The adventurers may be taken to the palace for interrogation.
+While the eruption happened, there was a robbery at the temple. The sacred __Ptarian Code Tablet__ has been stolen.  The adventurers are either brought by the Scales of Ha to the center of the temple near the statues and the missing tablet or they are brought to the palace for interrogation.
 
-> ### Narration:
+> <span style="color:#79093C">Hakik speaks, "Taryash, deal with these sukeru. I am needed by the people of Fuling. I shall return to get to the bottom of this."</span>
 >
-> The Palace of the Head Dragon is a large wooden palace with statues blocking the entrance to the staircase.
+> _Sukeru_ is local slang for "foreigner" and is considered derogative.
+
+The players are left with __Taryash__, First Sensei of the Scales of Ha. They are also left with 5 other guards: __Kazuy, Yumakiro, Takeme, Hazuumo and Haka__. __Hiro__ the cleric who was in the temple at the time is also present along with the Head Priest __Hastun__. The adventurers are placed on their knees with their hands bound with red rope and a platinum clamp.
+
+> ### Dialog
+> Read descriptions of the characters Hatsun, Hiro and Taryash. Then proceed with the following dialog:
+> 
+> <span style="color:#1F687C">Hatsun: "How could this have happened? Hiro, you were in the temple! How could someone have taken the tablet!"</span>
+>
+> <span style="color:#097933">Hiro, goes to his knees: "Oh most honorable Hatsun, I am so very sorry please forgive me. I was overwhelmed with exhaustion and fell asleep. I only awoke from the sound of the eruption and saw that the tablet was missing."</span>
+> 
+> <span style="color:#1F687C">Hatsun: "What a disgrace! Who would steal from the temple!"</span>
+>
+> <span style="color:#792909">Taryash: "It is as our great Head Dragon Hakik has predicted! Ever since we have allowed the Sukeru to enter our village and temples, we have brought nothing but disgrace to our ancestors! All for what? Worthless pieces of metal!"</span>
+>
+> <span style="color:#1F687C">Hatsun: "Blasphemy! Metals are the gifts of the gods."</span>
+> 
+> <span style="color:#792909">Taryash: "Harumph!"</span>
 
 Hakik informs the players that he was notified by the temple priests that after the eruption they discovered the sacred tablet was stolen.
 
@@ -216,15 +233,71 @@ Hakik is against foreigners coming into the village and is immediately suspiciou
 
 Each player will each be interrogated one at a time. While one player is in the interrogation room, the others are free to discuss amongst themselves. While they are waiting to be interrogated, they may encounter the priest named __Hiro__.
 
-Hiro is described as an average looking dragonborn of average height and average weight. His green scales and yellow eyes are extremely typical of those born on Mi’s Island. In fact, Hiro is about as average as average comes for a dragonborn on Nirimsea.
-
 Good roleplaying will be critical for the players to be able to explain their whereabouts over the past day. More specifically provide a convincing explanation for why they are in the village. At the end of each interrogation have the player do a Charisma/Persuasion DC 15 with advantage if the role playing was convincing, with disadavantage if not convincing.
+
+Give the players time to interact. Create some dynamic dialog with discussing some of the clues. After some time Hakik returns.
+
+> <span style="color:#79093C">Hakik: "It is as I feared. The village is in flames and many of the villagers will lose their homes and rice fields. The courageous Scales of Ha are fighting now to use the waters of the falls to quell the village centre fire. However, I'm afraid the others most certainly will be lost."</span>
+> 
+> <span style="color:#1F687C">Hatsun: "But great dragon lord, certainly you do not expect these... villagers... to stay here?"</span>
+> 
+> <span style="color:#79093C">Hakik: "Where will you have them go!? Is it not just and good to provide shelter to those who need it as Ryū would will?"</span>
+> 
+> <span style="color:#1F687C">Hatsun, cowers and gets to his knees: "Uh uh, forgive me Head Dragon! The ashen air perhaps has clouded my mind!"</span>
+>
+> <span style="color:#79093C">Hakik: "Taryash, these... visitors... should go into the hall. I wish to speak to them alone."</span>
+>
+> <span style="color:#792909">Taryash: "Yes dragon lord. Yumakiro, do as commanded!"</span>
+> 
+> Yumakiro motions to the guards and clergy: "You, come with me!"
+
+The players are brought into the hallway along with the guards, Hiro, Hatsun. However Taryash remains. Call the players in to the room one at a time. The walls are made of paper and are quite thin.
+
+## Clues
+There are a few clues that were found from the investigation.
+
+- A hair tie from Nirimsea
+- 3 different sets of footprints are found with dirt/mud on the lining (for a DC 20 perception flakes of gold in the print)
+- Tiny parchments from the capsule are scattered about the room
+
+Parchments:
+- "I will repay my fathers debts and save our home."
+- "I swear to keep my old neighbor company once a day."
+- "I vow to destroy Ryū."
+- "I promise to standup to the fish merchant always overcharging me and ask for 5 copper instead of giving into 6 copper!"
+- "I will avenge my mother's killers!"
+
+<div class='pageNumber'>3</div>
+<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
+
+
+\page
+
+Hakik will ask each player the following interactions with Good Cop (Hakik) / Bad Cop (Taryash).
+
+- "What has brought you to our wonderful village?"
+- "Where have you been since coming to the village?"
+- "Where were you before the eruption?"
+- "Who can vouch for your story?"
+- "Do you recognize this hair tie?"
+- "Let's see how your foot compares to these footprints..."
+- "Let me see your handwriting to compare with the note"
+
+__DC 15 (Charisma/Persuasion) check. If Hakik is inclined to believe (good role play) then give the player advantage. If he is not inclined give the player disadvantage. If it was just okay then a regular roll.__
+
+Take an average of all interrogation checks and use the formula below:
+
+- "> 15" - great success, he believes your stories yet encourges you to join the Scales of Ha on a search to prove your loyalty: Option 1. If they refuse invite them as guests to the palace for the remainder of their stay: Option 2.
+- "> 10" - success, he is unconvinced of the stories and is still moderately suspicious. Invites you to the palace to stay as "guests" for the remainder of the stay: Option 2.
+- "< 10" - fail, he utterly does not believe your stories and is nearly convinced of your guilt. He sends you to the dungeon in the palace: Option 1.
 
 After some time, while Hakik is just finishing the interrogations, his son __Fuling__ comes running into the room.
 
-> Fuling screams, “FATHER! They’ve taken my children!!!”
+> <span style="color:#711E92">Fuling screams, “FATHER! They’ve taken my children!!!”</span>
 
 If the majority of the players successfully passed the interrogation then the players are without any suspicion. Otherwise Hakik is suspicious of them.
+
+Alternatively you can use a more generic success/fail system:
 
 <div class='descriptive'>
 ##### Charisma/Persuasion DC 15:
@@ -235,7 +308,43 @@ If the majority of the players successfully passed the interrogation then the pl
 </ul>
 </div>
 
-Take a look at the maps to find an arrangement that makes sense to your unique situation with the adventurers.
+```
+```
+
+## The Palace of the Head Dragon
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/palace-of-head-dragon.png" style="width:100%;margin:20px" />
+
+The adventurers may be taken to the palace for interrogation.
+
+> ### Narration:
+>
+> The Palace of the Head Dragon is a large wooden palace with statues blocking the entrance to the staircase.
+
+The players are either taken to the dungeon or to their rooms in the palace.
+
+### Option 1: Dungeon
+Virero will contact the players in prison to let them know he recognizes the gold on the dirt of the footprints. It could only come from the Angzh mountains and specifically a cavern with gold in it. He can help them break out of prison through the waterway and take them on a boat to the Angzh mountains trailhead.
+
+<div class='pageNumber'>3</div>
+<div class='footnote'>DM'S GUIDE  | Part 1:  Crime &amp; Punishment</div>
+
+
+\page
+
+### Option 2: Palace Guests
+Hiro will visit the players and can take them around the village centre. There is a library with a rich history of Nirimsea the players can explore. There are many floors of the palace that are off limits. The players are free to explore most of the town centre. However, the players are always accompanied by guards and insist upon them not leaving the confines of the village. Hiro convinced of their innocence helps them escape at night in return for their help to solve the mystery and save the children.
+
+### Options 3: Scales of Ha Conscripts
+The players are forced to join the Scales of Ha on a wild goose chase through the Angzh mountains. While recruits they can interact with other soldiers and get to know the order. The Scales of Ha are so inexperienced they don't know what they are doing. Eventually the players should get frustrated and can seek help from either Hiro or Virero.
+
+## Escape
+The adventurers should be given an opportunity to escape on their own. If you look at the map of the palace you will see that the palace is situated over a river that leads to __Fuling Falls__. This river connects to the Angzh Mountains trailhead by boat. The center room directly over the river is the library. In the north-eastern most corner there is a statue. That statue covers an old wooden floor hatch that goes directly down to the edge of the river.
+
+The adventurers may also attempt to open a window to throw a rope down to scale down from the window. However, the window will not open easily (Strength checks of DC 15) and will likely make a loud noise when trying to open them.
+
+However the party is able to make it down to the river, they will eventually find a small boat along the river. However, the boat is going against the current so they will need to use their abilities wisely to make it up the river by boat. Alternatively, they may go by foot along the wooded path along the river to the trailhead.
+
+You can use __Virero__ as a guide to navigate along the path and eventually lead into the caverns of the mountains. Alternatively there is an entrance into the caverns from the __Temple of Bahamut__ that can be led by __Hiro__. This entrance will be more tricky to get into as if the adventurers are in the palace they will have a long way to go undetected in the open to get to the temple. 
 
 
 <div class='pageNumber'>4</div>
@@ -301,24 +410,77 @@ The only roads into the village come from the cities Kango and Kyototo.
 
 \page
 
+## Kingdom of Nirimsea
+_Rotate map 90 degrees._
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/nirimsea-map.png" style="position:absolute;top:290px;left:-40px;width:900px;-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);" />
+
+<div class='pageNumber'>9</div>
+<div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
 # Part 2:  Search &amp; Rescue
-The adventurers escape detainment either through alliance with their captors or through the aid of another ally (Hiro, Virero, etc.). If they choose to take the question and rescue the children then this next part will describe the steps taken to do that.
+The adventurers escape detainment either through alliance with their captors or through the aid of another ally (Hiro, Virero, etc.). If they choose to take the quest to rescue the dragonborn children then this next part will describe the steps taken to do that.
 
 <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/angzh-mountains.png" style="width:100%;margin:20px" />
 
 The search will take place in the __mountains__ and the rescue will take place in the __caverns__.
 
-__NOTE: Virero is an excellent guide of these mountains and should speed up the time it takes to navigate the caverns.__
+> NOTE: Virero is an excellent guide of these mountains and should speed up the time it takes to navigate the caverns.
+
+The adventurers will make their way through the mountains either coming from the __Temple of Bahamut__ or from the __Angzh Mountains Trailhead__ (by boat or by foot). 
+
+The caverns are located significantly closer to the temple by way of the hot springs. Going from the trailhead will require more effort as the caverns are located further north up the trail. 
+
+> NOTE: If the players allied with the Scales of Ha they will have their help in navigating the dangers of the mountains as well as in combat. 
+>
+> If the players did not ally with the Scales of Ha and have escaped then this becomes a peril for them as they will be navigating the mountains around the same time searching for the children.
+
+```
+```
 
 ## Random Encounters
 The following random encounters are likely in the mountains:
 
-##### Cookie Tastiness
+##### Encounters Table
 | D20 | Monster(s) | Total CR |
 |:----:|:-------------|---------|
-| 1-5  | 1 x Ice Toad | 1 |
-| 6-15  | 4 x Fox | 1 |
-| 16-20 | 1 x Ice Toad, 1 x Swarm of Spiders | 1 1/2 |
+| 1-5  | 1 x Swarm of Spiders | 1/2 |
+| 6-15  | 3 x Fox | 3/4 |
+| 16-20 | 1 x Ice Toad  | 1 |
+
+Eventually the players will need to get to the caverns, either through Hiro or Virero (or perhaps both). Once at the trailhead they must hike their way through the mountains and forests to get to the cavern. Or they can get to the caverns from a secret entrance from the temple.
+
+Getting to the caverns, the players may discover a water spring in the cavern that produces long life to Dragonborn. There is plenty of gold and there are parts of the cavern that have lava flowing through it which illuminates the cavern.
+
+The winding caverns are Angzh are full of gold and a small amount of platinum. The winding caverns are also the home of the worshipers of Akuma: Yukisu, Runhika and Misaru. The exit of the caverns goes the center of the Angzh mountains. The caverns are also home to many spawnlings that the worshipers have spawned.
+
+There are also multicolored eggs that are glowing in the cavern, these are unhatched dragon spawns. They may encounter one that is about to hatch, and thus an encounter forms.
+
+___
+> ### Black / Blue / Red / White / Green Newborn Spawnlings
+>*Small fiend, evil*
+> 
+> Spawnlings are a newly born spawn of Tiamat (_Akuma_). They have tiny yet sharp claws and are about 3 feet in height.
+> ___
+> - **Armor Class** 6
+> - **Hit Points** 4 (1d6)
+> - **Speed** 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|7 (-1)|6 (-2)|3 (-3)|3 (-3)|3 (-3)|
+>___
+
+> ### Actions
+> ***Scratch.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2)
+
+
+<div class='pageNumber'>10</div>
+<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
+
+\page
 
 ___
 ___
@@ -348,11 +510,6 @@ ___
 >
 > ### Actions
 > ***Bites.*** *Melee Weapon Attack*: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
-
-<div class='pageNumber'>9</div>
-<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
-
-\page
 
 ___
 ___
@@ -409,8 +566,43 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can’t bite another target.
 
 
-<div class='pageNumber'>10</div>
-<div class='footnote'>DM'S GUIDE | Part 1:  Search &amp; Rescue</div>
+<div class='pageNumber'>11</div>
+<div class='footnote'>DM'S GUIDE | Part 2:  Search &amp; Rescue</div>
+
+\page
+
+# Part 3: The Race for Time
+The adventurers need to figure out that the villains are hiding in the caverns. The villains are waiting for a large formation in the night sky of a dragon's breath as a sign that Tiamat _Akuma_) is ready for an offering. They are looking to perform a spell on all 3 of the Head Dragon's children (descendants of Fuling) to create an enormous eruption that they believe will summon Akuma back from the Celestial plane.
+
+The adventure ends with getting to the red-shaded corridor in the caverns. There is the symbol of Tiamat (Akuma) that must be drawn on the doors with black, blue, green, red, white ink. 
+
+<div style="font-size:160px;margin:-10px 0 -130px 0;line-height:0">悪魔</div>
+
+> __NOTE: This ink can be achieved by grabbing blood from the spawnlings either through combat or crushing an egg.__
+
+Once inside the red-shaded corridor the adventurers will work their way down to where the ceremony is taking place.
+
+There is not much time to find all 3 children tied up and rescue them before the ceremony begins. It will be extremely difficult to defeat all 3 of the villains during the ceremony so it is important if the adventurers are to be successful that they find the children quickly.
+
+```
+```
+
+## The Children of Fuling no Hakik
+
+------------
+> ### Kohur
+> Greetings, my name is Kohur and I'm 13 years old. I was raised as the son of the Head Dragon's son and his heir. No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. Also, When I set my mind to something, I follow through no matter what gets in my way. 
+
+------------
+> ### Tatoyo
+> Hello, my name is Tatoyo and I'm 10 years old. I'm the second son of Fuling no Hakik, Head Dragon of Fuling. It is my duty to respect the authority of those above me, just as those below me must respect mine. I have a secret, my best friend is the daughter of a family that my family despises.
+
+----------
+> ### Kamizu
+> How do you do? My name is Kamizu and I'm 6 years old. I'm the daughter of Fuling no Hakik. 
+
+<div class='pageNumber'>11</div>
+<div class='footnote'>DM'S GUIDE | Part 3:  The Race for Time</div>
 
 \page
 
@@ -419,5 +611,102 @@ The caverns are connected to the temple to the bottom of the trailhead through t
 
 <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/caverns.png" style="position:absolute;top:120px;left:0;width:100%" />
 
-<div class='pageNumber'>11</div>
+<div class='pageNumber'>12</div>
 <div class='footnote'>DM'S GUIDE | MAPS</div>
+
+\page
+
+
+# NPCs
+
+## Allies
+
+-----------
+> ### Virero
+> Perception: Virero is described as an elderly male dragonborn with grey hair set upon his ruby red scales. His eyes resemble the withering embers of a once great roaring fire nearing its end. He is quite old, said to be at least 160 years old.
+> 
+> Insight: His personality is warm and comforting and many people treat him like the grandfather they’ve always known, while learning as much as possible from his love of telling folktales.
+> 
+> Secrets: Virero lives for so long as he knows of a secret stream in the Angzh Mountains that gave Take his long life from "The Woodcutter And The Old Priest."
+
+---------
+> ### Hiro
+> Perception: Hiro is described as an average looking dragonborn of average height and average weight. His green scales and yellow eyes are extremely typical of those born on Mi's Island. In fact, Hiro is about as average as average comes for a dragonborn on Nirimsea.
+> 
+> Insight: Lawful Good, Average yet good intentioned, naïve
+> 
+> Secret: Hiro secretly knows the identity of one of the dragon women who are the villains (Yukisu).
+
+```
+```
+
+## Villains
+
+-------------
+> ### Yukisu
+> Perception: Yukisu is described as a young female Dragonborn having a powerful body with scratched silver skin. You immediately notice her tiny clawed-hands. Her dull silver hair sits atop her high-forehead face and features a broad nose and a mouth with an overbite. Her eyes are black and heavy-lidded and are accompanied with a set of heavy brows. After watching her for a while, you notice that she has a tendency to walk extremely fast and speaks extremely loudly.
+> 
+> Insight: Neutral Evil, misquotes sacred texts and proverbs in almost every situation, know-it-all, believes in a higher calling, owes her life to a priest that took her in when her parents died, flaw is she puts too much trust in the worshippers of Akuma and her hierarchy.
+> 
+> Secret: Studied with Hiro and was a good friend growing up.
+
+-------------
+> ### Runhika
+> Perception: Runhika is described as a young female Dragonborn with firm amber skin and a solid body. Her shaggy green hair sits atop her face featuring sharp cheekbones, her straight nose and silver squinty eyes. Upon closer inspectoin, you notice that she is missing two of her right toes.
+> 
+> Insight: Chaotic Evil, plans for the worst, greedy, seeks redemption, always looking to steal, rude, skilled at sleight-of-hand
+
+-------------
+> ### Misaru
+> Perception: Misaru is described as a young female Dragonborn with black skin and a slender body. Her dull black hair sits atop her high forehead, which you immediately notice has a large birthmark on it. Her face features a broad nose, straight teeth, and silver hooded eyes. Upon closer inspection you notice that she speaks very loudly.
+> 
+> Insight: Lawful Evil, desperately seeks freedom, has a mean stare, loyal and true to her word, seeks to fight for the common folk, submissive to those powerful to her that share her goals, smart, patient
+
+<div class='pageNumber'>12</div>
+<div class='footnote'>DM'S GUIDE | NPCs</div>
+
+\page
+
+## Neutral
+
+-------------------
+> ### Fuling no Hakik
+> Perception:  Described as a young sallow Dragonman with firm golden skin. He is quite short for a Dragonborn. His face features a square jaw and long nose. His spiky golden hair sits atop his copper deep-set eyes and straight brows.
+> 
+> Insight:  Lawful Neutral, treats all people the same, thinks the world revolves around him, can be cold-hearted.
+> 
+> Children: Fuling no Hakik and Ayukisa have three children
+> 
+> - Kohur
+> - Tatoyo
+> - Kamizu
+
+-------------
+> ### Hakik
+> Perception: Hakik is described as a stern dragonman with a pensive personality. His many red-green scales coat his tall thin body and his face features a long pointy chin. His wardrobe is elegant and lavish, typically accompanied with a bold red sash.
+> 
+> Insight: True Neutral, Stern, dislikes foreigners
+
+-------------
+> ### Hatsun
+> Perception: Hatsun is described as exceptionally clean. His weather-beaten thick black skin would be typical of one from Ni's Island. He is quite large for a Dragonborn. His black hair is wild beyond the greatest attempts at keeping it straight and orderly. His long mustached face features sharp cheekbones and a Roman nose. His copper steely eyes sit beneath his heavy brows.
+> 
+> Insight: Lawful Good, snobby, elitist, glutton, genuinely wants to be charitable and help the common people but because of his elitist background finds that ideal extremely conflicting and frustrating
+
+```
+```
+
+-------------
+> ### Taryash
+> Perception: Taryash is a medium-sized dragonman with green scales. His robes are meticulously folded. The long pointy ends of his mustache resemble the two swords he carries by his side.
+> 
+> Insight: clever and a great fighter
+
+-------------
+> ### Yumakiro
+> Perception: Yumakiro is described as a tall young Dragonborn with green skin which is considered highly desirable on Mi's island. His attratively wild green hair sits atop his thin-mustached chiseled face and features a straight nose and gleaming white teeth. However, upon further closer inspection you notice that his scales are uneven and his blue eyes are bulging under his straight brows. Upon even closer inspection you now see why Yumakiro is usually standing alone. For your nose is overwhelmed by a foul odor coming from his general direction.
+> 
+> Insight: introverted, open-minded, rolls with the punches, honor-bound, stubborn, greedy, great at reading people
+
+<div class='pageNumber'>12</div>
+<div class='footnote'>DM'S GUIDE | NPCs</div>
