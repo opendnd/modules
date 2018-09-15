@@ -22,7 +22,7 @@ Before you begin, please think about the following questions:
 > 
 > The village is visited by thousands of pilgrims to pay homage to the Temple of Bahamut. The village is also well known for its healing springs known as the Onsen and its fine craft goods. 
 > 
-> Pay a visit to pay a visit to http://ao.opendnd.org to find more notable characters in the village or feel free to come up with your own.
+> Pay a visit to pay a visit to [http://ao.opendnd.org](http://ao.opendnd.org) to find more notable characters in the village or feel free to come up with your own.
 
 <div style="position:absolute;top:95px;right:70px;width:300px;text-align:center;">
   <img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/palace.png" style="width:100%" />
@@ -47,4 +47,70 @@ Before you begin, please think about the following questions:
 ## Playable Characters
 
 <div class='pageNumber'>2</div>
-<div class='footnote'>PLAYER'S GUIDE | PLAYABLE CHARACTERS</div>
+<div class='footnote'>PLAYER'S GUIDE | CHARACTERS</div>
+
+\page
+
+## Village of Fuling
+
+<div style="position:absolute;top:90px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Fujiya Lodge</strong> is a popular lodging establishment. The ornate wooden lodge is located a few minutes walk from the village centre and overlooks some of the village’s most beautiful scenery.
+</div>
+
+<div style="position:absolute;top:260px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Temple of Bahamut</strong> sits at the highest point in the village. It’s simple appearance includes many meditation rooms. A platinum capsule is positoined towards the center of the temple.
+</div>
+
+<div style="position:absolute;top:430px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Village Centre</strong> contains many artisan shops and the Head Dragon palace. There is an intricate wooden bridge that overlooks the enormous waterfall – Fuling Falls.
+</div>
+
+<div style="position:absolute;top:585px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Mayahi no Onsen &amp; Mangri no Onsen</strong> are rival hot springs popular for relaxation and healing. The springs include a lodge for food and rest.
+</div>
+
+<div style="position:absolute;top:724px;left:50px;width:167px;background:white;padding:10px;border:2px solid #999;">
+  <strong>Angzh Mountains</strong> Trailhead and lodge are available by boat from the Village Centre. The trailhead goes deep into the mountains and many visitors come to Fuling just for the easier route into the mountain range.
+
+The only roads into the village come from the cities Kango and Kyototo.
+</div>
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/village-map.png" style="position:absolute;top:90px;right:70px;width:65%;" />
+
+<div class='pageNumber'>3</div>
+<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+
+\page
+
+## Fujiya Lodge
+
+<div class='pageNumber'>4</div>
+<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+
+\page
+
+## Village Centre
+
+<div class='pageNumber'>5</div>
+<div class='footnote'>PLAYER'S GUIDE | MAPS</div>
+
+\page
+
+## Additional Information
+
+For additional information on this micro-campaign and others please visit the following resources:
+
+--------------------------
+> ### Ao World Compendium:  
+> __URL:__ [http://ao.opendnd.org](http://ao.opendnd.org)
+> 
+> A complete wiki with articles on this micro-campaign and more.
+
+----------------------------
+> ### Forgotten Realms Wiki:  
+> __URL:__ [http://forgottenrealms.wikia.com/](http://forgottenrealms.wikia.com/)
+> 
+> Specifically look for the articles on Bahamut and Tiamat. This resource is useful in learning more backround about the gods in Ao but any information on the Ao World Compendium overrides the information found here.
+
+<div class='pageNumber'>6</div>
+<div class='footnote'>PLAYER'S GUIDE | RESOURCES</div>
