@@ -13,15 +13,7 @@
 \page
 
 # Introduction
-The adventurers find themselves in the village of Fuling. A beautiful, serene village located high in the Angzh mountains. Before the first session, the adventurers should be able to answer the following questions from the Player’s Handout:
-
-You are a visitor in the village, what is your reasoning for visiting the village?
-
-What all have your done throughout your visit to the village?
-
-Did you meet any interesting characters throughout your visit?
-
-You’re nearing the end of your visit, where does your character intend to travel next?
+The adventurers find themselves in the village of Fuling. A beautiful, serene village located high in the Angzh mountains. Before the first session, the adventurers should be able to answer the following questions from the Player’s Handout.
 
 The ability to effectively answer these questions should influence how the characters are treated by certain NPC’s throughout the adventure.
 
@@ -42,13 +34,14 @@ The adventurers are able to gain allies throughout the adventure. Most notably, 
 
 Other potential allies include __Virero__ (_Charisma DC 15_) and the __Scales of Ha__ (_Charisma DC 20_).
 
-```
-```
-
 ## Goal
 The __primary goal__ for the adventurers will be to rescue the kidnapped children safely and prevent the rituals from being performed.
 
 The __secondary goal__ is to return the stolen tablet safely to the temple. A stretch goal would be to capture the villains and bring them to justice.
+
+```
+```
+
 
 ## Adventure Hook
 While visiting the village of Fuling, the players are __accused of stealing an item from the temple__. The interrogation is a distraction and gives the villains an opportunity to kidnap the dragonborn children.
@@ -70,6 +63,8 @@ It is important to know the role each player will fill in the campaign.
 - Optimizing (O):  like to fine-tune their characters for peak performance.
 - Problem Solving (P):  like to scrutinize motivations, solve puzzles, and come up with plans.
 - Storytelling (S):  want to contribute to a narrative.
+
+<img src="https://raw.githubusercontent.com/opendnd/modules/master/doom-of-bahamut/assets/img/role-guide.png" style="position:absolute;bottom:55px;right:75px;width:300px" />
 
 <div class='pageNumber'>1</div>
 <div class='footnote'>DM'S GUIDE | INTRODUCTION</div>
